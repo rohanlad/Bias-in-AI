@@ -1,3 +1,3 @@
-I conducted a project to investigate machine learning bias (against younger applicants) in credit decisioning, using the German Credit dataset. This work was inspired by Michael Feldman's research on fair machine learning. 
+I conducted a project to investigate machine learning bias (against younger applicants) in credit decisioning, using the German Credit dataset. See ```project_proposal.pdf``` for a full write-up of the project. This work was inspired by Michael Feldman's research on fair machine learning. 
 
 In addition to this, I discussed, in ```vision_manuscript.pdf```, my opinions on the research paper "A Framework for Understanding Unintended Consequences of Machine Learning" by Suresh et al., which highlights how bias in machine learning is often treated too generically. I then go on to explore the future of bias in AI, emphasising the need for standardisation of bias categorisation and corresponding terminology.
